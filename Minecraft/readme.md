@@ -7,6 +7,7 @@ This should should only have to be done once per server
   
 ###Example Use: Give jump boost 10 if log is destroyed with netherite axe
 >Repeat - Chain - Chain - Chain
+
 |Block Type|Console Command|
 |---:|:---:|
 |Repeat|Unconditional:|
