@@ -1,12 +1,12 @@
 # Command Block:
 
 ## Using scores to give effects:
-###Pre requirements:
+### Pre requirements:
 This should should only have to be done once per server
 
 >scoreboard objectives add <name> <event>
   
-###Example Use: Give jump boost 10 if acacia log is destroyed with netherite axe
+### Example Use: Give jump boost 10 if acacia log is destroyed with netherite axe
 >Repeat - Chain - Chain - Chain
 
 |Block Type|Condition|Console Command|
