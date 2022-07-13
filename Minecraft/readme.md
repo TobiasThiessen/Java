@@ -1,13 +1,13 @@
 # QoL Data Pack
 ## Mobs:
 #### Mobs Kill Thresholds
-| Normal | Rare |
-| :---: | :---: |
-| 10 | 1 |
-| 25 | 10 |
-| 75 | 25 |
-| 225 | 100 |
-| 1000 | 250 |
+| Normal | Rare | Legendary | Boss |
+| :---: | :---: | :---: | :---: |
+| 15 | 7 | 4 | 1 |
+| 75 | 35 | 20 | 5 |
+| 300 | 140 | 80 | 20 |
+| 900 | 420 | 240 | 60 |
+| 1800 | 840 | 480 | 120 |
 
 #### Mobs Effect List:
 | Mob | Rarity | Effect |
