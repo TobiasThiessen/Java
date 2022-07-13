@@ -38,8 +38,8 @@
 | Glow Squid | TBD | TBD |
 | Goat | TBD | TBD |
 | Guardian | TBD | TBD |
-| Horse | Normal | Speed |
 | Hoglin | Normal | Luck |
+| Horse | Normal | Speed |
 | Husk | Rare | Strength & Night Vision |
 | Illusioner | TBD | TBD |
 | Iron Golem | Rare | Strength |
