@@ -14,32 +14,32 @@
 | Mob | Rarity | Effect |
 | ---: | :---: | :--- |
 | Hostile Mobs |  |  |
-| Blaze | Normal | TBA |
-| Creeper | Normal | TBA |
-| Drowned | Rare | TBA |
-| Ghast | Rare | TBA |
-| Hoglin | Normal | TBA |
-| Husk | Rare | TBA |
-| Magma Cube | Rare | TBA |
-| Pillager | Rare | TBA |
+| Blaze | Normal | Fire Resistance |
+| Creeper | Normal | Resistance |
+| Drowned | Rare | Water Breathing |
+| Ghast | Rare | Fire Resistance & Resistance |
+| Hoglin | Normal | Luck |
+| Husk | Rare | Strength & Night Vision |
+| Magma Cube | Rare | Fire Resistance & Jump Boost |
+| Pillager | Rare | Hero of the Village |
 | Shulker | Rare | Slow Falling |
-| Silverfish | Rare | TBA |
-| Skeleton | Normal | TBA |
-| Slime | Rare | TBA |
-| Stray | Rare | TBA |
-| Wither Skeleton | Rare | TBA |
-| Zombie | Normal | TBA |
+| Silverfish | Rare | Haste |
+| Skeleton | Normal | Invisibility |
+| Slime | Rare | Haste |
+| Stray | Rare | Invisibility |
+| Wither Skeleton | Rare | Strength & Regeneration |
+| Zombie | Normal | Night Vision |
 | Neutral Mobs |  |  |
-| Dolphin | Rare | TBA |
-| Enderman | Normal | TBA |
-| Iron Golem | Rare | TBA |
-| Piglin | Normal | TBA |
-| Spider | Normal | TBA |
-| Squid | Rare | TBA |
+| Dolphin | Rare | Dolphins Grace & Conduit Power |
+| Enderman | Normal | Luck |
+| Iron Golem | Rare | Strength |
+| Piglin | Normal | Absorption |
+| Spider | Normal | Health Boost |
+| Squid | Rare | Water Breathing & Conduit Power |
 | Passive Mobs |  |  |
 | Chicken | Normal | Slow Falling |
-| Cow | Normal | TBA |
-| Horse | Normal | TBA |
-| Pig | Normal | TBA |
-| Sheep | Normal | TBA |
-| Strider | Rare | TBA |
+| Cow | Normal | Instant Health |
+| Horse | Normal | Speed |
+| Pig | Normal | Saturation |
+| Sheep | Normal | Resistance |
+| Strider | Rare | Speed |
