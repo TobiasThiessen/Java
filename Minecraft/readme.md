@@ -13,6 +13,7 @@
 ###### Hostile Mobs
 | Mob | Rarity | Effect |
 | ---: | :---: | :--- |
+| Hostile Mobs |  |  |
 | Blaze | Normal | TBA |
 | Creeper | Normal | TBA |
 | Drowned | Rare | TBA |
@@ -28,10 +29,7 @@
 | Stray | Rare | TBA |
 | Wither Skeleton | Rare | TBA |
 | Zombie | Normal | TBA |
-
-###### Neutral Mobs
-| Mob | Rarity | Effect |
-| ---: | :---: | :--- |
+| Neutral Mobs |  |  |
 | Dolphin | Rare | TBA |
 | Enderman | Normal | TBA |
 | Iron Golem | Rare | TBA |
