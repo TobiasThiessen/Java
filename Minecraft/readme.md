@@ -10,8 +10,7 @@
 | 1000 | 250 |
 
 #### Mobs Effect List:
-- Hostile Mobs:
-- 
+###### Hostile Mobs
 | Mob | Rarity | Effect |
 | ---: | :---: | :--- |
 | Blaze | Normal | TBA |
