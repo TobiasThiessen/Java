@@ -12,7 +12,7 @@
 #### Mobs Effect List:
 ###### Hostile Mobs
 | Mob | Rarity | Effect |
-| ---: | :---: | :--- |
+| ---: | :---: | :---: |
 | Hostile Mobs |  |  |
 | Blaze | Normal | Fire Resistance |
 | Creeper | Normal | Resistance |
