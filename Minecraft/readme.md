@@ -28,3 +28,13 @@
 | Stray | Rare | TBA |
 | Wither Skeleton | Rare | TBA |
 | Zombie | Normal | TBA |
+
+###### Neutral Mobs
+| Mob | Rarity | Effect |
+| ---: | :---: | :--- |
+| Dolphin | Rare | TBA |
+| Enderman | Normal | TBA |
+| Iron Golem | Rare | TBA |
+| Piglin | Normal | TBA |
+| Spider | Normal | TBA |
+| Squid | Rare | TBA |
