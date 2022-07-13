@@ -10,10 +10,9 @@
 | 1000 | 250 |
 
 #### Mobs Effect List:
-###### Hostile Mobs
 | Mob | Rarity | Effect |
 | ---: | :---: | :---: |
-| Hostile Mobs |  |  |
+| Hostile Mobs | --- | ------------ |
 | Blaze | Normal | Fire Resistance |
 | Creeper | Normal | Resistance |
 | Drowned | Rare | Water Breathing |
@@ -29,14 +28,14 @@
 | Stray | Rare | Invisibility |
 | Wither Skeleton | Rare | Strength & Regeneration |
 | Zombie | Normal | Night Vision |
-| Neutral Mobs |  |  |
+| Neutral Mobs | --- | ------------ |
 | Dolphin | Rare | Dolphins Grace & Conduit Power |
 | Enderman | Normal | Luck |
 | Iron Golem | Rare | Strength |
 | Piglin | Normal | Absorption |
 | Spider | Normal | Health Boost |
 | Squid | Rare | Water Breathing & Conduit Power |
-| Passive Mobs |  |  |
+| Passive Mobs | --- |  ------------|
 | Chicken | Normal | Slow Falling |
 | Cow | Normal | Instant Health |
 | Horse | Normal | Speed |
