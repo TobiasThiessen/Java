@@ -1,6 +1,6 @@
 # QoL Data Pack
-## Monsters:
-#### Monster Kill Thresholds
+## Mobs:
+#### Mobs Kill Thresholds
 | Normal | Rare |
 | :---: | :---: |
 | 10 | 1 |
@@ -8,3 +8,23 @@
 | 75 | 25 |
 | 225 | 100 |
 | 1000 | 250 |
+
+#### Mobs Effect List:
+- Hostile Mobs:
+| Mob | Rarity | Effect |
+| ---: | :---: | :--- |
+| Blaze | Normal | TBA |
+| Creeper | Normal | TBA |
+| Drowned | Rare | TBA |
+| Ghast | Rare | TBA |
+| Hoglin | Normal | TBA |
+| Husk | Rare | TBA |
+| Magma Cube | Rare | TBA |
+| Pillager | Rare | TBA |
+| Shulker | Rare | TBA |
+| Silverfish | Rare | TBA |
+| Skeleton | Normal | TBA |
+| Slime | Rare | TBA |
+| Stray | Rare | TBA |
+| Wither Skeleton | Rare | TBA |
+| Zombie | Normal | TBA |
