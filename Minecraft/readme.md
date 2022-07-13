@@ -22,7 +22,7 @@
 | Husk | Rare | TBA |
 | Magma Cube | Rare | TBA |
 | Pillager | Rare | TBA |
-| Shulker | Rare | TBA |
+| Shulker | Rare | Slow Falling |
 | Silverfish | Rare | TBA |
 | Skeleton | Normal | TBA |
 | Slime | Rare | TBA |
@@ -36,3 +36,10 @@
 | Piglin | Normal | TBA |
 | Spider | Normal | TBA |
 | Squid | Rare | TBA |
+| Passive Mobs |  |  |
+| Chicken | Normal | Slow Falling |
+| Cow | Normal | TBA |
+| Horse | Normal | TBA |
+| Pig | Normal | TBA |
+| Sheep | Normal | TBA |
+| Strider | Rare | TBA |
