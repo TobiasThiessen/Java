@@ -11,6 +11,7 @@
 
 #### Mobs Effect List:
 - Hostile Mobs:
+- 
 | Mob | Rarity | Effect |
 | ---: | :---: | :--- |
 | Blaze | Normal | TBA |
