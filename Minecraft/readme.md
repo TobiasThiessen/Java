@@ -12,47 +12,45 @@
 #### Mobs Effect List:
 | Mob | Rarity | Effect |
 | ---: | :---: | :---: |
-| Allay | TBD | TBD |
-| Axolotl | TBD | TBD |
-| Bat | TBD | TBD |
-| Bee | TBD | TBD |
+| Allay | Legendary | Luck, Jump Boost & Slow Falling |
+| Axolotl | Rare | Water Breating & Night Vision |
+| Bat | Rare | Night Vision & Slow Falling |
+| Bee | Normal | Absorption |
 | Blaze | Normal | Fire Resistance |
-| Cat | TBD | TBD |
-| Cave Spider | TBD | TBD |
+| Cat | Rare | Night Vision & Speed |
+| Cave Spider | Rare | Jump Boost & Health Boost |
 | Chicken | Normal | Slow Falling |
-| Cod | TBD | TBD |
+| Cod | Normal | Water Breathing |
 | Cow | Normal | Instant Health |
 | Creeper | Normal | Resistance |
-| Dolphin | Rare | Dolphins Grace & Conduit Power |
-| Donkey | TBD | TBD |
-| Drowned | Rare | Water Breathing |
-| Elder Guardian | TBD | TBD |
-| Ender Dragon | TBD | TBD |
-| Enderman | Normal | Luck |
-| Endermite | TBD | TBD |
-| Evoker | TBD | TBD |
-| Fox | TBD | TBD |
-| Frog | TBD | TBD |
+| Dolphin | Normal | Dolphins Grace |
+| Donkey | Normal | Speed |
+| Drowned | Normal | Luck |
+| Elder Guardian | Boss | Conduit Power, Dolphins Grace, Invisibility & Regeneration |
+| Ender Dragon | Boss | Resistance, Fire Resistance, Slow Falling & Hero of the Village |
+| Enderman | Normal | XP |
+| Endermite | Legendary | Jump Boost, Slow Falling & Regeneration |
+| Evoker | Legendary | Absorption, Health Boost & Regeneration |
+| Fox | Rare | Speed & Jump Boost |
+| Frog | Legendary | Water Breathing, Jump Boost & Night Vision |
 | Ghast | Rare | Fire Resistance & Resistance |
-| Giant | TBD | TBD |
-| Glow Squid | TBD | TBD |
-| Goat | TBD | TBD |
-| Guardian | TBD | TBD |
-| Hoglin | Normal | Luck |
+| Glow Squid | Rare | Water Breathing & Resistance |
+| Goat | Legendary | Jump Boost, Resistance & Strength |
+| Guardian | Legendary | Water Breathing, Haste & Night Vision |
+| Hoglin | Rare | Regeneration & Health Boost |
 | Horse | Normal | Speed |
 | Husk | Rare | Strength & Night Vision |
-| Illusioner | TBD | TBD |
-| Iron Golem | Rare | Strength |
-| Llama | TBD | TBD |
+| Iron Golem | Rare | Strength & Resistance |
+| Llama | Rare | Speed & Haste |
 | Magma Cube | Rare | Fire Resistance & Jump Boost |
-| Mooshroom | TBD | TBD |
-| Mule | TBD | TBD |
-| Ocelot | TBD | TBD |
-| Panda | TBD | TBD |
-| Parrot | TBD | TBD |
-| Phantom | TBD | TBD |
-| Pig | Normal | Saturation |
-| Piglin | Normal | Absorption |
+| Mooshroom | Legendary | Luck, Hero of the Village & Resistance |
+| Mule | Legendary | Speed, Jump Boost & Hero of the Village |
+| Ocelot | Rare | Absorption & Slow Falling |
+| Panda | Legendary | Resistance, Luck & XP |
+| Parrot | Legendary | Jump Boost, Slow Falling & XP |
+| Phantom | Rare  | Night Vision & Invisibility |
+| Pig | Normal | Health Boost |
+| Piglin | Normal | Instant Health |
 | Piglin Brute | TBD | TBD |
 | Pillager | Rare | Hero of the Village |
 | Polar Bear | TBD | TBD |
