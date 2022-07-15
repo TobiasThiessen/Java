@@ -51,39 +51,37 @@
 | Phantom | Rare  | Night Vision & Invisibility |
 | Pig | Normal | Health Boost |
 | Piglin | Normal | Instant Health |
-| Piglin Brute | TBD | TBD |
-| Pillager | Rare | Hero of the Village |
-| Polar Bear | TBD | TBD |
-| Pufferfish | TBD | TBD |
-| Rabbit | TBD | TBD |
-| Ravager | TBD | TBD |
-| Salmon | TBD | TBD |
+| Piglin Brute | Rare | Instant Health & Strength |
+| Pillager | Rare | Hero of the Village & Health Boost |
+| Polar Bear | Legendary | XP, Dolphins Grace & Invisibility |
+| Pufferfish | Rare | Resistance & Health Boost |
+| Rabbit | Normal | Jump Boost |
+| Ravager | Legendary | Health Boost, Instant Health & Absorption |
+| Salmon | Normal | Water Breathing |
 | Sheep | Normal | Resistance |
-| Shulker | Rare | Slow Falling |
-| Silverfish | Rare | Haste |
+| Shulker | Rare | Slow Falling & Jump Boost |
+| Silverfish | Rare | Haste & Instant Health |
 | Skeleton | Normal | Invisibility |
-| Skeleton Horse | TBD | TBD |
+| Skeleton Horse | Legendary | Haste, Night Vision & Resistance |
 | Slime | Rare | Haste |
-| Snow Golem | TBD | TBD |
+| Snow Golem | Rare | Absorption & Health Boost |
 | Spider | Normal | Health Boost |
 | Squid | Rare | Water Breathing & Conduit Power |
 | Stray | Rare | Invisibility |
-| Strider | Rare | Speed |
-| Tadpole | TBD | TBD |
-| Trader Llama | TBD | TBD |
-| Tropical Fish | TBD | TBD |
-| Turtle | TBD | TBD |
-| Vex | TBD | TBD |
-| Villager | TBD | TBD |
-| Vindicator | TBD | TBD |
-| Wandering Trader | TBD | TBD |
-| Warden | TBD | TBD |
-| Witch | TBD | TBD |
-| Wither | TBD | TBD |
+| Strider | Rare | Speed & Fire Resistance |
+| Tadpole | Legendary | Dolphins Grace, Conduit Power & Luck |
+| Trader Llama | Legendary | XP, Hero of the Village & Luck |
+| Tropical Fish | Normal | Instant Health |
+| Turtle | Rare | Health Boost & Resistance |
+| Villager | Normal | Night Vision |
+| Vindicator | Rare | Health Boost & Absorption |
+| Wandering Trader | Legendary | Speed, Luck & XP |
+| Warden | Boss | Strength, Night Vision, Invisibility & Regeneration |
+| Witch | Rare | Regeneration & Invisibility |
+| Wither | Boss | Jump Boost, Slow Falling, Hero of the Village & Luck |
 | Wither Skeleton | Rare | Strength & Regeneration |
-| Wolf | TBD | TBD |
-| Zoglin | TBD | TBD |
+| Wolf | Normal | Health Boost |
+| Zoglin | Legendary | Health Boost, Absorption & Regeneration |
 | Zombie | Normal | Night Vision |
-| Zombie Horse | TBD | TBD |
-| Zombie Villager | TBD | TBD |
-| Zombified Piglin | TBD | TBD |
+| Zombie Villager | Legendary | Hero of the Village, Night Vision & XP |
+| Zombified Piglin | Normal | Instant Health |
