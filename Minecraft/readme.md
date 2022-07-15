@@ -1,7 +1,7 @@
 # QoL & RPG Data Pack
 ## Mobs:
 #### Mobs Kill Thresholds
-| Normal | Rare | Legendary | Boss |
+| Common | Rare | Legendary | Boss |
 | :---: | :---: | :---: | :---: |
 | 15 | 7 | 4 | 1 |
 | 75 | 35 | 20 | 5 |
@@ -15,20 +15,20 @@
 | Allay | Legendary | Luck, Jump Boost & Slow Falling |
 | Axolotl | Rare | Water Breating & Night Vision |
 | Bat | Rare | Night Vision & Slow Falling |
-| Bee | Normal | Absorption |
-| Blaze | Normal | Fire Resistance |
+| Bee | Common | Absorption |
+| Blaze | Common | Fire Resistance |
 | Cat | Rare | Night Vision & Speed |
 | Cave Spider | Rare | Jump Boost & Health Boost |
-| Chicken | Normal | Slow Falling |
-| Cod | Normal | Water Breathing |
-| Cow | Normal | Instant Health |
-| Creeper | Normal | Resistance |
-| Dolphin | Normal | Dolphins Grace |
-| Donkey | Normal | Speed |
-| Drowned | Normal | Luck |
+| Chicken | Common | Slow Falling |
+| Cod | Common | Water Breathing |
+| Cow | Common | Instant Health |
+| Creeper | Common | Resistance |
+| Dolphin | Common | Dolphins Grace |
+| Donkey | Common | Speed |
+| Drowned | Common | Luck |
 | Elder Guardian | Boss | Conduit Power, Dolphins Grace, Invisibility & Regeneration |
 | Ender Dragon | Boss | Resistance, Fire Resistance, Slow Falling & Hero of the Village |
-| Enderman | Normal | XP |
+| Enderman | Common | XP |
 | Endermite | Legendary | Jump Boost, Slow Falling & Regeneration |
 | Evoker | Legendary | Absorption, Health Boost & Regeneration |
 | Fox | Rare | Speed & Jump Boost |
@@ -38,7 +38,7 @@
 | Goat | Legendary | Jump Boost, Resistance & Strength |
 | Guardian | Legendary | Water Breathing, Haste & Night Vision |
 | Hoglin | Rare | Regeneration & Health Boost |
-| Horse | Normal | Speed |
+| Horse | Common | Speed |
 | Husk | Rare | Strength & Night Vision |
 | Iron Golem | Rare | Strength & Resistance |
 | Llama | Rare | Speed & Haste |
@@ -49,39 +49,39 @@
 | Panda | Legendary | Resistance, Luck & XP |
 | Parrot | Legendary | Jump Boost, Slow Falling & XP |
 | Phantom | Rare  | Night Vision & Invisibility |
-| Pig | Normal | Health Boost |
-| Piglin | Normal | Instant Health |
+| Pig | Common | Health Boost |
+| Piglin | Common | Instant Health |
 | Piglin Brute | Rare | Instant Health & Strength |
 | Pillager | Rare | Hero of the Village & Health Boost |
 | Polar Bear | Legendary | XP, Dolphins Grace & Invisibility |
 | Pufferfish | Rare | Resistance & Health Boost |
-| Rabbit | Normal | Jump Boost |
+| Rabbit | Common | Jump Boost |
 | Ravager | Legendary | Health Boost, Instant Health & Absorption |
-| Salmon | Normal | Water Breathing |
-| Sheep | Normal | Resistance |
+| Salmon | Common | Water Breathing |
+| Sheep | Common | Resistance |
 | Shulker | Rare | Slow Falling & Jump Boost |
 | Silverfish | Rare | Haste & Instant Health |
-| Skeleton | Normal | Invisibility |
+| Skeleton | Common | Invisibility |
 | Skeleton Horse | Legendary | Haste, Night Vision & Resistance |
 | Slime | Rare | Haste |
 | Snow Golem | Rare | Absorption & Health Boost |
-| Spider | Normal | Health Boost |
+| Spider | Common | Health Boost |
 | Squid | Rare | Water Breathing & Conduit Power |
 | Stray | Rare | Invisibility |
 | Strider | Rare | Speed & Fire Resistance |
 | Tadpole | Legendary | Dolphins Grace, Conduit Power & Luck |
 | Trader Llama | Legendary | XP, Hero of the Village & Luck |
-| Tropical Fish | Normal | Instant Health |
+| Tropical Fish | Common | Instant Health |
 | Turtle | Rare | Health Boost & Resistance |
-| Villager | Normal | Night Vision |
+| Villager | Common | Night Vision |
 | Vindicator | Rare | Health Boost & Absorption |
 | Wandering Trader | Legendary | Speed, Luck & XP |
 | Warden | Boss | Strength, Night Vision, Invisibility & Regeneration |
 | Witch | Rare | Regeneration & Invisibility |
 | Wither | Boss | Jump Boost, Slow Falling, Hero of the Village & Luck |
 | Wither Skeleton | Rare | Strength & Regeneration |
-| Wolf | Normal | Health Boost |
+| Wolf | Common | Health Boost |
 | Zoglin | Legendary | Health Boost, Absorption & Regeneration |
-| Zombie | Normal | Night Vision |
+| Zombie | Common | Night Vision |
 | Zombie Villager | Legendary | Hero of the Village, Night Vision & XP |
-| Zombified Piglin | Normal | Instant Health |
+| Zombified Piglin | Common | Instant Health |
